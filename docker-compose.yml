@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  prog:
+    build:
+      context: .
+      dockerfile: ./progressive/Dockerfile
+    volumes:
+      - ./progressive/main:/opt/workinggg
+    restart: unless-stopped
+    command: sh /run.sh
