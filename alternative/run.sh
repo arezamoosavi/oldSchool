@@ -7,5 +7,8 @@ set -o nounset
 
 echo "wait"
 
-# javac test.java
+# javac HelloWorld.java
+# sleep 4
+# java HelloWorld
+
 sleep 100000

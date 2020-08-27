@@ -9,3 +9,12 @@ services:
       - ./progressive/main:/opt/workinggg
     restart: unless-stopped
     command: sh /run.sh
+
+  alter:
+    build:
+      context: .
+      dockerfile: ./alternative/Dockerfile
+    volumes:
+      - ./alternative/main:/opt/workinggg
+    restart: unless-stopped
+    command: sh /run.sh
