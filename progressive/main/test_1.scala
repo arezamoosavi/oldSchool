@@ -1,4 +1,4 @@
-object ScalaTest {
+object ScalaTest1 {
 
     def main(args: Array[String]){
         var i = 0
