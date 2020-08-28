@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984ea710-6e84-4d63-bd52-81a18f18276c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oldSchool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oldSchool.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive/main/test_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/progressive/main/test_1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive/main/test_2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/progressive/main/test_2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive/main/test_3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/progressive/main/test_3.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive/main/test_4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/progressive/main/test_4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive/main/hyp4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/progressive/main/hyp4.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/progressive/main/hyp4.scala">
+        <entry file="file://$PROJECT_DIR$/progressive/main/hyp7.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="102">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -52,6 +47,9 @@
         <option value="$PROJECT_DIR$/progressive/main/hyp2.scala" />
         <option value="$PROJECT_DIR$/progressive/main/hyp3.scala" />
         <option value="$PROJECT_DIR$/progressive/main/hyp4.scala" />
+        <option value="$PROJECT_DIR$/progressive/main/hyp5.scala" />
+        <option value="$PROJECT_DIR$/progressive/main/hyp6.scala" />
+        <option value="$PROJECT_DIR$/progressive/main/hyp7.scala" />
       </list>
     </option>
   </component>
@@ -325,15 +323,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/progressive/main/hyp3.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
+        <state relative-caret-position="17">
           <caret line="42" column="37" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="42" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/progressive/main/hyp4.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="194">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive/main/hyp5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive/main/hyp6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressive/main/hyp7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>

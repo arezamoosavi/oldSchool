@@ -13,6 +13,10 @@ object HypCls {
     println(rythem.history)
 
 
+    val booby = new Tool("booby", "nicebb")
+    booby.weight = 55.009
+    println(booby.history)
+
   }
 
 
